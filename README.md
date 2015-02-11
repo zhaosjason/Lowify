@@ -6,7 +6,7 @@ Shell script for changing all the filenames in a directory to lowercase.  This p
 You can clone this repository or type the following into your terminal to get the script.
 
 ```
-wget URL
+wget https://raw.githubusercontent.com/zhaosjason/Lowify/master/lowify.sh
 ```
 
 To run the script type the following command into your terminal
